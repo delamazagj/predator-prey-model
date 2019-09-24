@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This application is hosted on gh pages and can be access here -> https://delamazagj.github.io/predator-prey-model/
 
+
+This is a population control tool for species. Based on the input data, the application will generate a graph showing the predicted changes in population over 10 generation. 
+
+Note: A precision of 0.0001 was used. 
+
+If you find any error or have any question, please email me at delamazagj@gmail.com
+
+
 ![](images/graph.png)
 
 
