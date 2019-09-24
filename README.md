@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This application is hosted on gh pages and can be access here -> https://delamazagj.github.io/predator-prey-model/
 
+![](images/graph.png)
+
 
 ## Available Scripts
 
