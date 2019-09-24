@@ -2,9 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This application is hosted on gh pages and can be access here -> https://delamazagj.github.io/predator-prey-model/
 
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all dependencies needed to run the application
 
 ### `npm start`
 
