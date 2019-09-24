@@ -5,6 +5,13 @@ This application is hosted on gh pages and can be access here -> https://delamaz
 ![](images/graph.png)
 
 
+![](images/input.png)
+
+
+![](images/toggle.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
